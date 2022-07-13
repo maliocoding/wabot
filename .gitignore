@@ -2,3 +2,4 @@ node_modules
 .wwebjs_auth
 whatsapp-sessions.json
 package-lock.json
+downloaded-media
